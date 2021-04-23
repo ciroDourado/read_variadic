@@ -54,7 +54,7 @@ But, in the end (after some hard work and headache), you can provide very flexib
 <br>
 
 
-I'm leaving this code ready for use for anyone who wants to include in your C programs. The pro's of using it is to have some level of abstraction, as: don't need to worry about how many params your function receive (pass none or many shouldn't throw any error, this function will do what it was designed to do); or don't need to worry about memory allocation, or freeing pointers (your input is automatically allocated in heap).
+I'm leaving this code ready for use for anyone who wants to include in your C programs. The pro's of using it is to have some level of abstraction, as: don't need to worry about how many params your function receive (pass none or many shouldn't throw any error, this function will do what it was designed to do); or don't need to worry about memory allocation, or freeing pointers (your input is automatically allocated in heap - any size you want, you don't need to worry about how many bytes/chars must be reserved on allocation since everything is measured on internal functions).
 <br>
 
 
