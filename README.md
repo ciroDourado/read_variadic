@@ -51,7 +51,7 @@ I'm leaving this code ready for use for anyone who wants to include in your C pr
 
 
 ## Sections
-***[back to prelude](https://github.com/ciroDourado/read_variadic#prelude)***
+***[back to prelude](https://github.com/ciroDourado/read_variadic#prelude-variadic-functions)***
 
 1. [Applying into your code](https://github.com/ciroDourado/read_variadic#1-applying-into-your-code)
 2. [How to use it](https://github.com/ciroDourado/read_variadic#2-how-to-use-it)
