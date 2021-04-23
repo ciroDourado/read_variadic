@@ -1,7 +1,7 @@
 # read_variadic
 
 This project is based on another I've written <br>
-Check out the [read](https://github.com/ciroDourado/read) repository <br>
+Check out the original [read](https://github.com/ciroDourado/read) repository <br>
 You may need to take a close look on its README.md, so the understanding about were I have achieved here will become clearer.
 
 
