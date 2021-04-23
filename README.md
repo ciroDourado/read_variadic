@@ -67,7 +67,11 @@ I'm leaving this code ready for use for anyone who wants to include in your C pr
 
 ## 1. Applying into your code
 
-Using this library requires nothing more than moving the source-code at src/ into your project diretory that hold your .c files. 
+Using this library requires nothing more than moving the source-code at src/ into your project diretory that hold your .c files. <br>
+To use, just include (*once* in the entire project) the library: read_variadic.h
+```
+#include "read_variadic.h"
+```
 
 Finally, just the obvious, use GCC to compile all the code inside :
 
