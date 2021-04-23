@@ -12,7 +12,7 @@ You may need to take a close look on its README.md, so the understanding about w
 So far, so good. If you have noticed, much of the code in the original "read" library was reused, and also some of its parts were cutted (in order to allow me to rename some new functions, and get rid of some dead code that would be compiled).
 
 
-But, the most important thing is: what in heavens is a variadic function?
+But, the most important thing is: what in the heavens is a variadic function?
 
 
 ## Prelude: Variadic Functions
@@ -20,7 +20,7 @@ But, the most important thing is: what in heavens is a variadic function?
 
 
 
-Some of us, who had started programming with some low-level language, like C, are used with writing functions, aways having in mind 4 things:
+Some of us, who had started programming with some low-level language, like C, are used with writing functions, always have 4 things in mind:
 - we need to specify what the function returns;
 - we must give a unique name for the function, something that describes precisely what it does;
 - we must determine what that function takes as arguments/parameters;
@@ -46,7 +46,7 @@ In the common way, you *must* obey the number of acceptable args that your funct
 <br>
 
 
-But doing this in C is tricky, since you need to get very used with Macros, which itself can mess a lot of your code if you don't do it right. Also it becomes very unreadable, as C macros aren't that intuitive. Only try to code these things with some mastering on coding in C lang.
+But doing this in C is tricky, since you need to get very used with Macros, which can mess a lot of your code if you don't do it right. Also it becomes very unreadable, as C macros aren't that intuitive. Only try to code these things with some mastering on coding in C lang.
 <br>
 
 
